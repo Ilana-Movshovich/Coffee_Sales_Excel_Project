@@ -20,3 +20,10 @@ I used **pivot tables** to summarize the data into three main areas for the dash
 * **`Top Countries`**: A bar chart showing which countries brought in the most revenue.
 * **`Top Customers`**: A list identifying the 5 highest-spending customers.
 * **`Interactive Filters`**: I added **Slicers** and a **Timeline** so anyone can filter the data by roast type, package size, or date without needing to edit the spreadsheet.
+
+---
+
+### **📁 Repository Files**
+
+* `**coffee_sales_excel_project.xlsx**`: The completed project file containing the processed master sheet, Pivot Tables, and the final interactive dashboard.
+* `**raw_coffee_dataset.xlsx**`: The original, unprocessed data (Orders, Customers, and Products) used as the starting point for this project.
