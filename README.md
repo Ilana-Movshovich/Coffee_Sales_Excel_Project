@@ -1,10 +1,10 @@
-# **`☕ Coffee Sales: Data Standardization & Interactive Reporting Project`**
+# **☕ Coffee Sales: Data Standardization & Interactive Reporting Project**
 
 This project covers the full process of taking raw coffee sales data and turning it into a clean, automated report in Excel. I connected separate tables for customers and products and built an interactive dashboard that makes it easy to track sales performance at a glance.
 
 ---
 
-### **`🏗️ Data Preparation & Standardization`**
+### **🏗️ Data Preparation & Standardization**
 Before making the charts, I organized the background data so the entire system would work correctly:
 
 * **`Connecting Tables`**: I used **XLOOKUP** and **INDEX/MATCH** to pull customer details and product prices into the main **Orders sheet**, which served as the master dataset for the project.
@@ -13,7 +13,7 @@ Before making the charts, I organized the background data so the entire system w
 
 ---
 
-### `**📊 Automated Sales Reports**`
+### **📊 Automated Sales Reports**
 I used **pivot tables** to summarize the data into three main areas for the dashboard:
 
 * **`Sales Trends`**: A line chart that shows how different coffee types performed month-by-month.
